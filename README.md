@@ -1,2 +1,2 @@
 # SensitivityAnalysis
-Sensitivity Analysis with Remoll
+Sensitivity Analysis for spectrometer
